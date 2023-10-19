@@ -1,0 +1,15 @@
+[2023-10-19 09:25:23.090] [INFO ] [main] com.springboot.api.ApiApplication Starting ApiApplication using Java 11.0.20.1 on openPC with PID 7820 (C:\Users\user\IntelliJ\api\target\classes started by user in C:\Users\user\IntelliJ\api)
+[2023-10-19 09:25:23.096] [INFO ] [main] com.springboot.api.ApiApplication No active profile set, falling back to default profiles: default
+[2023-10-19 09:25:23.841] [INFO ] [main] org.springframework.boot.web.embedded.tomcat.TomcatWebServer Tomcat initialized with port(s): 8080 (http)
+[2023-10-19 09:25:23.847] [INFO ] [main] org.apache.coyote.http11.Http11NioProtocol Initializing ProtocolHandler ["http-nio-8080"]
+[2023-10-19 09:25:23.848] [INFO ] [main] org.apache.catalina.core.StandardService Starting service [Tomcat]
+[2023-10-19 09:25:23.848] [INFO ] [main] org.apache.catalina.core.StandardEngine Starting Servlet engine: [Apache Tomcat/9.0.54]
+[2023-10-19 09:25:23.913] [INFO ] [main] org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] Initializing Spring embedded WebApplicationContext
+[2023-10-19 09:25:23.913] [INFO ] [main] org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext Root WebApplicationContext: initialization completed in 788 ms
+[2023-10-19 09:25:24.168] [INFO ] [main] springfox.documentation.spring.web.PropertySourcedRequestMappingHandlerMapping Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+[2023-10-19 09:25:24.308] [INFO ] [main] org.apache.coyote.http11.Http11NioProtocol Starting ProtocolHandler ["http-nio-8080"]
+[2023-10-19 09:25:24.321] [INFO ] [main] org.springframework.boot.web.embedded.tomcat.TomcatWebServer Tomcat started on port(s): 8080 (http) with context path ''
+[2023-10-19 09:25:24.322] [INFO ] [main] springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper Context refreshed
+[2023-10-19 09:25:24.333] [INFO ] [main] springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper Found 1 custom documentation plugin(s)
+[2023-10-19 09:25:24.351] [INFO ] [main] springfox.documentation.spring.web.scanners.ApiListingReferenceScanner Scanning for api listing references
+[2023-10-19 09:25:24.468] [INFO ] [main] com.springboot.api.ApiApplication Started ApiApplication in 1.773 seconds (JVM running for 2.749)
