@@ -11,6 +11,9 @@
 IDE - InteliJ
 
 JAVA - JDK11
+
 SpringBoot - 2.5.6
+
 Database - MariaDB
+
 Build - Maven
